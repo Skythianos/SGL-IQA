@@ -12,7 +12,7 @@ addpath(genpath('SSEQ'));
 
 load CLIVE.mat
 
-numberOfSplits = 1;
+numberOfSplits = 100;
 
 PLCC = zeros(1,numberOfSplits);
 SROCC = zeros(1,numberOfSplits);
